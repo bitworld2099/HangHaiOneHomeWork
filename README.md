@@ -1,5 +1,11 @@
-#### 
+#### 拉取项目
 
+```shell 
+$ git clone  https://github.com/bitworld2099/HangHaiOneHomeWork.git
+```
+
+#### 导入项目到idea
+(1)....
 
 #### 新建自己的项目
 (1)选择项目`vue-springboot`>>右键>>New >> Module
