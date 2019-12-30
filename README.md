@@ -1,11 +1,18 @@
 #### 拉取项目
 
 ```shell 
-$ git clone  https://github.com/bitworld2099/HangHaiOneHomeWork.git
+$ git clone -b team4 https://github.com/bitworld2099/HangHaiOneHomeWork.git
 ```
 
-#### 导入项目到idea
-(1)....
+#### 
+
+![1577543110481](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1577543110481.png)
+
+
+
+### 导入项目到idea
+
+
 
 #### 新建自己的项目
 (1)选择项目`vue-springboot`>>右键>>New >> Module
@@ -14,7 +21,10 @@ $ git clone  https://github.com/bitworld2099/HangHaiOneHomeWork.git
 ![](https://api.onedrive.com/v1.0/shares/s!AnfzhZ6EzsFXgStJCBQwp2njldbD/root/content)
 
 (3)填写项目信息
+
 ![](https://api.onedrive.com/v1.0/shares/s!AnfzhZ6EzsFXgSxYDEQej71inXQt/root/content)
+
+![1577543233044](C:\Users\Administrator\Desktop\1577543233044.png)
 
 (4)一直Next直到Finish
 

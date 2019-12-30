@@ -16,6 +16,7 @@
 
     <modules>
         <module>vuespringboot-team4-wujiyu</module>
+        <module>springboot-team4-zhangweixin</module>
     </modules>
 
     <properties>
