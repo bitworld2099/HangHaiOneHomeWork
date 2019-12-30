@@ -6,7 +6,7 @@ $ git clone -b team4 https://github.com/bitworld2099/HangHaiOneHomeWork.git
 
 #### 
 
-![1577543110481](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1577543110481.png)
+![](https://ftp.bmp.ovh/imgs/2019/12/ad5b294f9ec359ce.png)
 
 
 
@@ -24,7 +24,7 @@ $ git clone -b team4 https://github.com/bitworld2099/HangHaiOneHomeWork.git
 
 ![](https://api.onedrive.com/v1.0/shares/s!AnfzhZ6EzsFXgSxYDEQej71inXQt/root/content)
 
-![1577543233044](C:\Users\Administrator\Desktop\1577543233044.png)
+![](https://ftp.bmp.ovh/imgs/2019/12/17981f85639680f7.png)
 
 (4)一直Next直到Finish
 
