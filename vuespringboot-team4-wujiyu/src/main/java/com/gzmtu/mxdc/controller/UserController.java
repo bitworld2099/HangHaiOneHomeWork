@@ -49,7 +49,7 @@ public class UserController {
         return  ResultVO.success();
     }
 
-    @RequestMapping(value = {"/","index"},method = RequestMethod.GET)
+    @RequestMapping(value = {"index"},method = RequestMethod.GET)
     public String index(){
         return "crud";
     }
@@ -58,4 +58,5 @@ public class UserController {
     public String error(){
         return "error";
     }
+
 }
