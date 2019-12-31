@@ -13,7 +13,6 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>vue-springboot</name>
     <description>vue and jpa project for Spring Boot</description>
-
     <modules>
         <module>vuespringboot-team4-wujiyu</module>
         <module>springboot-team4-zhangweixin</module>
