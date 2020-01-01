@@ -12,12 +12,14 @@
     <artifactId>vue-springboot</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>vue-springboot</name>
+    <packaging>pom</packaging>
     <description>vue and jpa project for Spring Boot</description>
     <modules>
         <module>vuespringboot-team4-wujiyu</module>
         <module>springboot-team4-zhangweixin</module>
         <module>springboothwork-team4-fangyangkai</module>
         <module>springboot-team4-liaojian</module>
+        <module>vuespirngboot-team4-lizhihao</module>
     </modules>
 
     <properties>
