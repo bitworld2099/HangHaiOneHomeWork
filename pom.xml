@@ -20,6 +20,7 @@
         <module>springboothwork-team4-fangyangkai</module>
         <module>springboot-team4-liaojian</module>
         <module>vuespirngboot-team4-lizhihao</module>
+        <module>springbootcrud-team4-linhuaxin</module>
     </modules>
 
     <properties>
